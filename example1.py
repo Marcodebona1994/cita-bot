@@ -14,8 +14,8 @@ if __name__ == "__main__":
         operation_code=OperationType.RECOGIDA_DE_TARJETA,
         doc_type=DocType.NIE,  # DocType.NIE or DocType.PASSPORT
         doc_value="T1111111R",  # NIE or Passport number, no spaces.
-        country="RUSIA",
-        name="BORIS JOHNSON",  # Your Name
+        country="Italy",
+        name="Mario Rossi",  # Your Name
         phone="600000000",  # Phone number (use this format, please)
         email="myemail@here.com",  # Email
         # Offices in order of preference
